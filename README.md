@@ -15,12 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/codepen.io/decent_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/decent_ali" height="30" width="40" /></a>
+<a href="https://codepen.io/decent_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/decent_ali" height="30" width="40" /></a>
 <a href="https://twitter.com/decent__ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="decent__ali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/mstr-ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mstr-ali/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stackoverflow.com/users/18632588/ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/18632588/ali" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/profile.php?id=100051933602001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/profile.php?id=100051933602001" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/__itz__ali_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/__itz__ali_/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mstr-ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mstr-ali/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18632588/ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/18632588/ali" height="30" width="40" /></a>
+<a href="https://facebook.com/profile.php?id=100051933602001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/profile.php?id=100051933602001" height="30" width="40" /></a>
+<a href="https://instagram.com/__itz__ali_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/__itz__ali_/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/CH4Ewr8UkY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CH4Ewr8UkY" height="30" width="40" /></a>
 </p>
 
