@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ALI</h1>
-<h3 align="center">A passionate MERN Stack Developer from Karachi</h3>
+<h3 align="center">A Passionate MERN Stack Developer from Karachi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-technical&label=Profile%20views&color=0e75b6&style=flat" alt="ali-technical" /> </p>
 
