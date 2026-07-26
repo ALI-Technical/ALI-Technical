@@ -15,7 +15,6 @@
 * 🎨 Full-stack experience with **React, Next.js, Vue, Nuxt, and Angular**
 * ☁️ Hands-on experience with **Azure, AWS, GitHub Actions, and Docker**
 * 🔌 Experienced in building **REST APIs, integrations, authentication, data synchronization, and production systems**
-* 🤖 Currently working with **Azure AI Foundry** and AI-powered backend integrations
 * 🔍 Interested in **backend architecture, scalable systems, cloud technologies, and developer tooling**
 * 🐍 Currently expanding my backend toolkit with **Python**
 
@@ -47,6 +46,7 @@ Zendesk • Azure AI Foundry • SearchKit • Git • GitHub • SonarQube • 
 
 * 💼 LinkedIn: [linkedin.com/in/ali-technical](https://linkedin.com/in/ali-technical)
 * 📧 Email: **[ali.aa251104@gmail.com](mailto:ali.aa251104@gmail.com)**
+* 🕸️ Portfolio: **[made-by-ali.vercel.app](https://made-by-ali.vercel.app/)**
 
 ---
 
