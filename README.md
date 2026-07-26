@@ -45,7 +45,7 @@ Zendesk • Azure AI Foundry • SearchKit • Git • GitHub • SonarQube • 
 
 ### 📫 Connect With Me
 
-* 💼 LinkedIn: [linkedin.com/in/mstr-ali](https://linkedin.com/in/mstr-ali/)
+* 💼 LinkedIn: [linkedin.com/in/ali-technical](https://linkedin.com/in/ali-technical)
 * 📧 Email: **[ali.aa251104@gmail.com](mailto:ali.aa251104@gmail.com)**
 
 ---
